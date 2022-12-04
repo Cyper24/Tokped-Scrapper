@@ -21,3 +21,11 @@
 ![Python 3.5](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
   
 </div>
+
+---
+
+## Table of Contents
+- [Getting Started](#getting_started)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [Authors](#authors)
