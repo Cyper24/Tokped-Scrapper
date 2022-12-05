@@ -61,9 +61,11 @@
    - cd Tokped-Scrapper
    - pip install -r requirements.txt
    ```
-3. Run 
+3. Run
+
+    Replace 'Your Chromedriver Dir' with your chromedriver directory in TokpedS and TokpedD
     ```
-     * Open TokpedS.py and TokpedD.py with text editor and replace 'Your Chromedriver Dir' with your chromedriver directory
+     driver = webdriver.Chrome(r'Your Chromedriver Dir')
     ```
       - Product Search
         ```
