@@ -33,6 +33,8 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![Python 3.5](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
+[![Selenium](https://img.shields.io/badge/Selenium-green?logo=python&logoColor=white)](https://)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-white?logo=python&logoColor=black)](https://)
   
 </div>
 ---
