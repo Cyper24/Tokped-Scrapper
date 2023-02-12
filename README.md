@@ -91,4 +91,5 @@
 ## Authors <a name = "authors"></a>
  - [@Cyper24](https://github.com/Cyper24)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8AG2J3)
 
